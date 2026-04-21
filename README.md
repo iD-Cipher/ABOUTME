@@ -1,2 +1,2 @@
 # ABOUTME
-Info about me
+Programmer
